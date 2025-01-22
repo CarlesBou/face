@@ -37,6 +37,5 @@ The *experiments/datasets* folder contains the datasets employed for classificat
 
 
 ## Licenses
-** PENDIENTE REVISAR LICENCIAS (nuestras y de terceros)
 This work is dual-licensed under Creative Commons Zero v1.0 Universal (or any later version) license for our contribution and 
 correspondig licenses coming from LIME, SHAP, and FCP authors.
