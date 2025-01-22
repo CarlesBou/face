@@ -19,8 +19,9 @@ reliable explanation framework applicable across a wide range of scenarios model
 
 
 ## Repository description
-The repository contains the source files developed to implement the new local explainer for Feed-forward Neural Networks (FNNs)
-and the code for the different experiments run to test the validity of the proposal. 
+The repository contains the source files developed to implement the new local post-hoc explainer for Feed-forward Neural 
+Networks (FNNs) named "**Feature Attribution Computed Exactly (FACE)**" and the code for the different experiments run to 
+test the validity of the proposal. 
 
 It has been implemented in Python and uses Keras and Tensorflow framework. 
 
